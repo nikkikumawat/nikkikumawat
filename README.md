@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nikkikumawat
 - 👀 I’m interested in web designing
 - 🌱 I’m currently learning full stack developing
-- 💞️ I’m looking to collaborate on ...
 - 📫 you can contact me through instagram @_nikki___verma_
 - email id - @nikkiverma129@gmail.com
 <!---
