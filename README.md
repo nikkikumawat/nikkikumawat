@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nikkikumawat
-- 👀 I’m interested in web designing and digital marketing in seo
+- 👀 I’m interested in web designing and digital marketing
 - 🌱 I’m currently learning html css...
 - 📫 you can contact me through instagram @_nikki___verma_
 - email id - @nikkiverma129@gmail.com
