@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikkikumawat
 - 👀 I’m interested in Web designing and Digital marketing
-- 🌱 I’m currently learning html css boostrap...
+- 🌱 I’m currently learning html css boostrap js...
 - 📫 you can contact me through instagram @_nikki___verma_
 - email id - @nikkiverma129@gmail.com
 <!---
